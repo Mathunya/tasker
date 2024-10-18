@@ -1,3 +1,8 @@
+Tasker is a to-do list app designed to simplify and organize your
+daily tasks, making your life more manageable and efficient. It helps
+you stay on top of your responsibilities by offering tools that
+streamline planning and task completion
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
